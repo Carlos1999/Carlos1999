@@ -4,7 +4,7 @@
  - Estagiário na Secretaria de Estado de Planejamento e das Finanças do RN - SEPLAN, na área de **Análise de dados**.
 
 
-## Interessado em: Análise de dados, Ciência de dados, Engenharia de dados e Jogos Digitais
+## 📑 Interessado em: Análise de dados, Ciência de dados, Engenharia de dados e Jogos Digitais
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos1999&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
