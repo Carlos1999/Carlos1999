@@ -11,7 +11,7 @@
 
 
 ## 👨‍💻 Principais Projetos:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Network_Analysis_Spotify_Playlists&theme=tokyonight)](https://github.com/Carlos1999/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Network_Analysis_Spotify_Playlists&theme=tokyonight)](https://github.com/Carlos1999/Network_Analysis_Spotify_Playlists)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Bot_Whats_Relatorios_e_Notificacoes&theme=tokyonight)](https://github.com/Carlos1999/github-readme-stats)
