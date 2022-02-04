@@ -1,7 +1,7 @@
 ## 		:man_student: Olá, sou Carlos Vinícius
  - Formando no curso de Graduação Bacharelado em Tecnologia da Informação - UFRN;
  - Técnico em informática - IFRN; 
- - Estagiário na Secretaria de Estado de Planejamento e das Finanças do RN - SEPLAN, na área de Análise de dados
+ - Estagiário na Secretaria de Estado de Planejamento e das Finanças do RN - SEPLAN, na área de **Análise de dados**.
 
 
 ## Interessado em: Análise de dados, Ciência de dados, Engenharia de dados e Jogos Digitais
