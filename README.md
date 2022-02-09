@@ -12,10 +12,10 @@
 
 ## 👨‍💻 Principais Projetos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Network_Analysis_Spotify_Playlists&theme=tokyonight)](https://github.com/Carlos1999/Network_Analysis_Spotify_Playlists)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Face_Recognition_Project&theme=tokyonight)](https://github.com/Carlos1999/Face_Recognition_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Bot_Whats_Relatorios_e_Notificacoes&theme=tokyonight)](https://github.com/Carlos1999/Bot_Whats_Relatorios_e_Notificacoes)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Network_Analysis_Malha_Aerea_Brasileira&theme=tokyonight)](https://github.com/Carlos1999/Network_Analysis_Malha_Aerea_Brasileira)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Jogo-Plataforme-Godot&theme=tokyonight)](https://github.com/Carlos1999/Jogo-Plataforme-Godot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Carlos1999&repo=Face_Recognition_Project&theme=tokyonight)](https://github.com/Carlos1999/Face_Recognition_Project)
 
 
 
